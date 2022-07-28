@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="fab">FAB</string>
+
+    <string name="main_activity_name">ToDo\'s</string>
+    <string name="add_task_activity_name">Add a New Task</string>
+    <string name="update_task_activity_name">Update Task</string>
+
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <string name="edit_task_description">Enter your task …</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add Task</string>
+    <string name="update_button">Update Task</string>
+
+</resources>
